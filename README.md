@@ -6,8 +6,7 @@ Library pack required for mods to work on MonetLoader for SA-MP. Compatible with
 
 - MonetLoader 3.6.0-os+
 - SA-MP 0.3.7
-- Architectures arm64-v8a, armeabi-v7a and x86_64
-- Direct installation into the `lib` folder
+- Architectures arm64-v8a (64-Bit), armeabi-v7a (32-Bit)
 
 ## Installation
 
@@ -29,8 +28,7 @@ Pacote de bibliotecas necessárias para o funcionamento de mods no MonetLoader p
 
 - MonetLoader 3.6.0-os+
 - SA-MP 0.3.7
-- Arquiteturas arm64-v8a, armeabi-v7a e x86_64
-- Instalação direta na pasta `lib`
+- Arquiteturas arm64-v8a (64-Bit), armeabi-v7a (32-Bit)
 
 ## Instalação
 
